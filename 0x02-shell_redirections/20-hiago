@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "cat" | tr -d 'c'
+echo "Chicago" | tr -d 'c' | tr -d 'C'
